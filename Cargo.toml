@@ -2,7 +2,7 @@
 name = "tendns"
 version = "0.2.0"
 edition = "2024"
-rust-version = "1.99.1"
+rust-version = "1.96.1"
 description = "Encrypted TXT discovery and hexadecimal IPv4 resolution, as a library and DNS server"
 repository = "https://github.com/cfal/tendns"
 license = "MIT"
